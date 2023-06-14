@@ -18,5 +18,6 @@ public class ZooService {
         cat.makeSound();
         secCat.eat ();
         secCat.makeSound();
+        secCat.getName();
     }
 }
